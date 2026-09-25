@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://SENIN-KULLANICI-ADIN.github.io/sitemap.xml
